@@ -8,18 +8,20 @@ import numpy as np
 
 __C = edict()
 cfg = __C
-__C.NUM = 4                 # view number
+__C.NUM = 15                 # view number
 __C.WIDTH = 9
 __C.HEIGHT = 6
+__C.FILE_SIZE = (1200, 900)
 __C.PATTERN = 'chessboard'  # chessboard, circles, asymmetric_circles
-__C.INPUT_DIR = './chessboard'
-__C.SAVE_DIR = './save_dir'
+__C.INPUT_DIR = './chessboards'
+__C.RESULT_DIR = './result_dir'
 __C.MODE = 'images'         # images, videos
 __C.VIEW1 = 8
 __C.VIEW2 = 5
 __C.VIEW3 = 2
 __C.FILE_NAME_INTRINSIC = "intrinsic.json"
 __C.FILE_NAME_EXTRINSIC = "extrinsic.json"
+
 
 """You need to measure each one block's size and relative distance in real 3d object coordinate.
     For example, if you have some points that is ranged in (0,0,0)~(8,0,0) of with and (0,0,0)~(0,8,0) of height

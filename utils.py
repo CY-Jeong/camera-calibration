@@ -15,7 +15,13 @@ def resize(image, *size):
     img = cv2.resize(image, size)
 
     return img
-
+def mkdirs(paths):
+    if isinstance(paths, list):
+        for path in paths:
+            if not os.path.exists(path):
+                os.makedirs(path)
+    elif not os.path.exists(paths):
+        os.makedirs(paths)
 
 def is_img_videos(filename):
     """Checking if the file format is image format"""
