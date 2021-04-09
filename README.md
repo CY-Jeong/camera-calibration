@@ -23,6 +23,6 @@ python calibration.py
 ```
 
 # Results
-<img src='result_dir/0.png' width=200 height=150><img src='result_dir/1.png' width=200 height=150><img src='result_dir/2.png' width=200 height=150><img src='result_dir/3.png' width=200 height=150> <img src='result_dir/4.png' width=200 height=150><img src='result_dir/5.png' width=200 height=150><img src='result_dir/6.png' width=200 height=150><img src='result_dir/7.png' width=200 height=150> <img src='result_dir/8.png' width=200 height=150><img src='result_dir/9.png' width=200 height=150><img src='result_dir/10.png' width=200 height=150><img src='result_dir/11.png' width=200 height=150> <img src='result_dir/12.png' width=200 height=150><img src='result_dir/13.png' width=200 height=150><img src='result_dir/14.png' width=200 height=150>
+<img src='result_dir/0.png' width=200 height=150><img src='result_dir/1.png' width=200 height=150><img src='result_dir/2.png' width=200 height=150><img src='result_dir/3.png' width=200 height=150><img src='result_dir/4.png' width=200 height=150><img src='result_dir/5.png' width=200 height=150><img src='result_dir/6.png' width=200 height=150><img src='result_dir/7.png' width=200 height=150><img src='result_dir/8.png' width=200 height=150><img src='result_dir/9.png' width=200 height=150><img src='result_dir/10.png' width=200 height=150><img src='result_dir/11.png' width=200 height=150><img src='result_dir/12.png' width=200 height=150><img src='result_dir/13.png' width=200 height=150><img src='result_dir/14.png' width=200 height=150>
 
 You can see some connection lines between points.
