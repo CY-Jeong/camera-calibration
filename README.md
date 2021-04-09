@@ -4,11 +4,8 @@ I did 15 multi-views.
 
 
 ## Sample Image
-<img src='chessboards/0.jpg' width=200 height=150><img src='chessboards/1.jpg' width=200 height=150><img src='chessboards/2.jpg' width=200 height=150>
-<img src='chessboards/3.jpg' width=200 height=150><img src='chessboards/4.jpg' width=200 height=150><img src='chessboards/5.jpg' width=200 height=150>
-<img src='chessboards/6.jpg' width=200 height=150><img src='chessboards/7.jpg' width=200 height=150><img src='chessboards/8.jpg' width=200 height=150>
-<img src='chessboards/9.jpg' width=200 height=150><img src='chessboards/10.jpg' width=200 height=150><img src='chessboards/11.jpg' width=200 height=150>
-<img src='chessboards/12.jpg' width=200 height=150><img src='chessboards/13.jpg' width=200 height=150><img src='chessboards/14.jpg' width=200 height=150>
+<img src='chessboards/0.jpg' width=200 height=150><img src='chessboards/1.jpg' width=200 height=150><img src='chessboards/2.jpg' width=200 height=150><img src='chessboards/3.jpg' width=200 height=150><img src='chessboards/4.jpg' width=200 height=150><img src='chessboards/5.jpg' width=200 height=150> <img src='chessboards/6.jpg' width=200 height=150><img src='chessboards/7.jpg' width=200 height=150><img src='chessboards/8.jpg' width=200 height=150>
+<img src='chessboards/9.jpg' width=200 height=150><img src='chessboards/10.jpg' width=200 height=150> <img src='chessboards/11.jpg' width=200 height=150><img src='chessboards/12.jpg' width=200 height=150><img src='chessboards/13.jpg' width=200 height=150><img src='chessboards/14.jpg' width=200 height=150>
 
 ## installation
 ```bash
