@@ -9,7 +9,7 @@ I did 15 multi-views.
 ## installation
 ```bash
 git clone https://github.com/CY-Jeong/anomaly-detection-mvtec.git
-cd anomaly-detection-mvtec## Usage
+cd anomaly-detection-mvtec
 ```
 - Pip users, ```pip install -r requirements.txt```
 - Conta users, ```conda env create -f environment.yml```
